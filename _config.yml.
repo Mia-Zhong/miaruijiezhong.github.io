@@ -1,5 +1,9 @@
 remote_theme: pages-themes/minimal@v0.2.0
 plugins: - jekyll-remote-theme
 
-title: [Mia Ruijie Zhong]
-description:[Welcome! I am a lecturer at the [department of people, work, and employment](https://business.leeds.ac.uk/departments-people-work-employment) at Leeds University Business School.] 
+
+title: Mia Ruijie Zhong
+description: Welcome! I am a lecturer at the [department of people, work, and employment](https://business.leeds.ac.uk/departments-people-work-employment) at Leeds University Business School.
+show_downloads: true
+theme: jekyll-theme-minimal
+
