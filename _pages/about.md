@@ -1,12 +1,13 @@
----
-permalink: /
-title: "Welcome"
-excerpt: "About me"
- author_profile: true
+
+<!--permalink: /
+author_profile: true
  redirect_from: 
    - /about/
    - /about.html
- ---
+-->
+# Welcome
+## About me
+ 
 
 
 I am a lecturer at the [department of people, work, and employment](https://business.leeds.ac.uk/departments-people-work-employment) at Leeds University Business School.
