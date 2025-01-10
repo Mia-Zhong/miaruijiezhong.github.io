@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Mia Ruijie Zhong"
+title                    : "Dr. Mia Ruijie Zhong"
 title_separator          : "-"
-name                     : &name "Mia Ruijie Zhong"
+name                     : &name ""
 description              : &description "Lecturer at the department of people, work, and employment at Leeds University Business School."
 url                      : https://miazhong.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,57 +22,57 @@ repository               : "mia-zhong/miazhong.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : #""
-  pronouns         : # example: "she/her"  
-  bio              : # "Short biography for the left-hand sidebar"
+  name             : "Mia Ruijie Zhong"
+  #pronouns         : # example: "she/her"  
+  bio              : "Trained in demography and sociology"
   location         : "UK"
   employer         : "University of Leeds"
-  uri              : #
+  #uri              : #
   email            : "m.zhong1@leeds.ac.uk" 
 
   # Academic websites
-  arxiv            : # URL - Update with the correct link to your profile
+  #arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=WBOatjoAAAAJ&hl=en&authuser=1"
-  impactstory      : # URL
-  orcid            : #
-  semantic         : # URL
-  pubmed           : #
-  researchgate     : # URL
-  scopus           : # URL
+  #impactstory      : # URL
+  orcid            : "https://orcid.org/0009-0005-2668-4652"
+  #semantic         : # URL
+  #pubmed           : #
+  #researchgate     : # URL
+  #scopus           : # URL
 
   # Repositories and software development
-  bitbucket        : # Username - Update with your username on the site
-  codepen          : # Username
-  dribbble         : # Username
+  #bitbucket        : # Username - Update with your username on the site
+  #codepen          : # Username
+  #dribbble         : # Username
   github           : "Mia-Zhong"
-  kaggle           : # Username  
-  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
+  #kaggle           : # Username  
+  #stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : #
-  facebook         : # Username
-  flickr           : # Username
-  foursquare       : # Username
-  goodreads        : # Username
-  google_plus      : # Username
-  keybase          : # Username
-  instagram        : # Username
-  lastfm           : # Username
+  #bluesky          : #
+  #facebook         : # Username
+  #flickr           : # Username
+  #foursquare       : # Username
+  #goodreads        : # Username
+  #google_plus      : # Username
+  #keybase          : # Username
+  #instagram        : # Username
+  #lastfm           : # Username
   linkedin         : "https://www.linkedin.com/in/mia-zhong-62418a268/?originalSubdomain=uk" # Username
-  mastodon         : # URL
-  medium           : # URL
-  pinterest        : # Username
-  soundcloud       : # Username
-  steam            : # Username
-  telegram         : # URL
-  tumblr           : # Username
-  twitter          : # Username for X / Twitter
-  vine             : # Username
-  weibo            : # Username
-  wikipedia        : # Username
-  xing             : # Username
-  youtube          : # Username
-  zhihu            : # Username
+  #mastodon         : # URL
+  #medium           : # URL
+  #pinterest        : # Username
+  #soundcloud       : # Username
+  #steam            : # Username
+  #telegram         : # URL
+  #tumblr           : # Username
+  #twitter          : # Username for X / Twitter
+  #vine             : # Username
+  #weibo            : # Username
+  #wikipedia        : # Username
+  #xing             : # Username
+  #youtube          : # Username
+  #zhihu            : # Username
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:

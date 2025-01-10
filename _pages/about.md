@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: ""
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
+title: "Welcome"
+excerpt: "About me"
+ author_profile: true
+ redirect_from: 
+   - /about/
+   - /about.html
+ ---
 
-Welcome
 
 I am a lecturer at the [department of people, work, and employment](https://business.leeds.ac.uk/departments-people-work-employment) at Leeds University Business School.
 Prior to that, I worked as a researcher with an ESRC-funded project ["Young Women's Working Lives"](https://ywworking.co.uk/) hosted at City University of London and University of Leeds. 

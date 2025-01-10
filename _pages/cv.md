@@ -9,13 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
-[Download CV here](https://mia-zhong.github.io/miazhong.github.io/files/CV_Lecturer_website_Jan25.pdf)
+<!--[Download CV here](https://mia-zhong.github.io/miazhong.github.io/files/CV_Lecturer_website_Jan25.pdf)-->
 
-<!-- Education
+Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Sociology and Demography, University of California Berkeley, 2024
+* MA in Sociology, MA in Demography, University of California Berkeley, 2019 & 2016
+* BA in Sociology, Tsinghua University, 2015
 
 Work experience
 ======
