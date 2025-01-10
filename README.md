@@ -1,5 +1,3 @@
-# Mia Ruijie Zhong
-
 
 ## Welcome
 
