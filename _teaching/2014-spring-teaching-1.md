@@ -12,6 +12,8 @@ location: "City, Country"
 This is a description of a teaching experience. You can use markdown like any other post.
 -->
 
-LUBS5346M: Data Analytics for Human Resources
+[LUBS5346M: Data Analytics for Human Resources](https://webprod3.leeds.ac.uk/catalogue/dynmodules.asp?Y=202425&M=LUBS-5346M)
 ======
+
+
 
