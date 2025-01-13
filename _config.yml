@@ -218,9 +218,9 @@ collections:
   publications:
     output: true
     permalink: /_publications/
-  Cv:
+  cv:
     output: true
-    Permalink: /files/
+    Permalink: /files/CV_lecturer_Jan2025
   #portfolio:
   #  output: true
   #  permalink: /:collection/:path/
