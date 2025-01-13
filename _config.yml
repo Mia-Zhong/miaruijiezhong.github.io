@@ -8,13 +8,13 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Dr. Mia Ruijie Zhong"
+title                    : "Mia Ruijie Zhong"
 title_separator          : "-"
-name                     : &name ""
-description              : &description "Lecturer at the department of people, work, and employment at Leeds University Business School."
+name                     : &name "Mia Ruijie Zhong"
+description              : &description "Lecturer in People, Work, and Employment at Leeds University Business School"
 url                      : https://miazhong.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "mia-zhong/miazhong.github.io"
+repository               : "Mia-Zhong/miazhong.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -24,10 +24,10 @@ author:
   avatar           : "profile.png"
   name             : "Mia Ruijie Zhong"
   pronouns         : # example: "she/her"  
-  bio              : "Trained in demography and sociology"
+  bio              : "Trained in Sociology and Demography"
   location         : "UK"
   employer         : "University of Leeds"
-  uri              : #
+  uri              : # URL
   email            : "m.zhong1@leeds.ac.uk" 
 
   # Academic websites
@@ -36,7 +36,7 @@ author:
   impactstory      : # URL
   orcid            : "https://orcid.org/0009-0005-2668-4652"
   semantic         : # URL
-  pubmed           : #
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
 
@@ -44,12 +44,12 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "Mia-Zhong"
+  github           : "https://github.com/Mia-Zhong"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : #
+  bluesky          : "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -58,7 +58,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "https://www.linkedin.com/in/mia-zhong-62418a268/?originalSubdomain=uk" # Username
+  linkedin         : # Username
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -75,13 +75,13 @@ author:
   zhihu            : # Username
 
 # Publication Category - The following the list of publication categories and their headings
-# publication_category:
- # books:
- #   title: 'Books'
- # manuscripts:
- #   title: 'Journal Articles'    
- # conferences:
- #   title: 'Conference Papers'
+publication_category:
+  books:
+    title: 'Books'
+  manuscripts:
+    title: 'Journal Articles'    
+  conferences:
+    title: 'Conference Papers'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -126,6 +126,7 @@ google_site_verification :
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
+
 
 # Social Sharing
 twitter:
@@ -213,19 +214,16 @@ kramdown:
 collections:
   teaching:
     output: true
-    permalink: /_teaching/
+    permalink: /:collection/:path/
   publications:
     output: true
-    permalink: /_publications/
-  cv:
+    permalink: /:collection/:path/
+  portfolio:
     output: true
-    Permalink: /files/CV_lecturer_Jan2025
-  #portfolio:
-  #  output: true
-  #  permalink: /:collection/:path/
-  #talks:
-  #  output: true
-  #  permalink: /:collection/:path/
+    permalink: /:collection/:path/
+  talks:
+    output: true
+    permalink: /:collection/:path/
 
 
 # These settings control how pages and collections are included in the site
